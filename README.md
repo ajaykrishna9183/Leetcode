@@ -13,6 +13,7 @@ Here's the list of problems I have solved
 | ------- |
 | [0001-two-sum](https://github.com/ajaykrishna9183/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ajaykrishna9183/Leetcode/tree/master/0075-sort-colors) |
+| [1293-three-consecutive-odds](https://github.com/ajaykrishna9183/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
