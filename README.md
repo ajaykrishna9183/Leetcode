@@ -13,6 +13,7 @@ Here's the list of problems I have solved
 | ------- |
 | [0001-two-sum](https://github.com/ajaykrishna9183/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ajaykrishna9183/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajaykrishna9183/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1293-three-consecutive-odds](https://github.com/ajaykrishna9183/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ Here's the list of problems I have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajaykrishna9183/Leetcode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajaykrishna9183/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
