@@ -15,6 +15,7 @@ Here's the list of problems I have solved
 | [0053-maximum-subarray](https://github.com/ajaykrishna9183/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ajaykrishna9183/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajaykrishna9183/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ajaykrishna9183/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/ajaykrishna9183/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaykrishna9183/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -30,6 +31,7 @@ Here's the list of problems I have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajaykrishna9183/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ajaykrishna9183/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,8 @@ Here's the list of problems I have solved
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaykrishna9183/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ajaykrishna9183/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
