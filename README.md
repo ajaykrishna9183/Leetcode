@@ -8,6 +8,7 @@ Here's the list of problems I have solved
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/ajaykrishna9183/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/ajaykrishna9183/Leetcode/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Here's the list of problems I have solved
 | [0128-longest-consecutive-sequence](https://github.com/ajaykrishna9183/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/ajaykrishna9183/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaykrishna9183/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3321-type-of-triangle](https://github.com/ajaykrishna9183/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +29,7 @@ Here's the list of problems I have solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajaykrishna9183/Leetcode/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/ajaykrishna9183/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
